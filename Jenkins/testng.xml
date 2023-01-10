@@ -3,6 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
+      <class name="Testcases.TC4"/>
       <class name="Testcases.TC3"/>
       <class name="Testcases.TC2"/>
       <class name="Testcases.TC1"/>
